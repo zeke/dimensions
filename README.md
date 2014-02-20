@@ -31,7 +31,7 @@ The above yields:
 }
 ```
 
-See [tests/index.js](tests/index.js) for more usage examples.
+See [test/index.js](test/index.js) for more usage examples.
 
 ## License
 
