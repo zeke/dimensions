@@ -14,8 +14,9 @@ Give dimensions an image URL, get back an object with the image's width and heig
 
 ```js
 var dimensions = require('dimensions')
+var url = 'http://placekitten.com/g/200/300'
 
-dimensions('http://upload.wikimedia.org/wikipedia/en/7/70/Example.png', function(err, dimensions){
+dimensions(url, function(err, dimensions){
   if (err) throw err
   console.log(dimensions)
 })
@@ -25,8 +26,8 @@ The above yields:
 
 ```js
 {
-  height: 297,
-  width: 275
+  height: 300,
+  width: 200
 }
 ```
 
