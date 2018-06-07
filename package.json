@@ -1,38 +1,1 @@
-{
-  "name": "dimensions",
-  "version": "0.1.0",
-  "description": "Get the width and height of any image on the Internet. Supports BMP, GIF, JPEG, PNG, PSD.",
-  "main": "index.js",
-  "scripts": {
-    "test": "node_modules/mocha/bin/mocha"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/zeke/dimensions"
-  },
-  "keywords": [
-    "image",
-    "dimensions",
-    "bmp",
-    "gif",
-    "jpeg",
-    "jpg",
-    "png",
-    "psd",
-    "photoshop"
-  ],
-  "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com/)",
-  "license": "WTFPL",
-  "bugs": {
-    "url": "https://github.com/zeke/dimensions/issues"
-  },
-  "homepage": "https://github.com/zeke/dimensions",
-  "dependencies": {
-    "image-size": "~0.2.1",
-    "MD5": "~1.2.0",
-    "wget": "0.0.1"
-  },
-  "devDependencies": {
-    "mocha": "~1.17.1"
-  }
-}
+ù©ûv)ûû»®ûÀﬁÆ»®üMtuÎÆ*mäâ∆z€a{ù∂ßv¢Çh}©Úäf†zâÌÖ‚'µÍÁz‘Æ¶ö+∂¿L<b$Ò<—èH9öäxßuÏc≤«+äõlµÎ-ûá^öánïÎ?öá!kˆ‚ü˘®r´zö,ä⁄+ m¶œˇÇ+aπ∑(õ¸ﬁëÔ›ägß≤*'≤G≤¬ä›≤)öÅÁbôÈÏäâÏnj`â¯ÈzÈÇô‡¶«iÜãh≤)jÎa¢∂^ë‰¢ëÈbjz,ÕÈ≤)ñ&ß¢«(ömßˇÛzG¨äG•â©Ë± &˛Xúz{Y1O-ª†≤ÍÂÜ€i≥ˇ‡äÿnm &ˇ7§{˜bôÈÏäâÏ˛+,πÎ!¢g©j°∂⁄lˇ¯"∂õrâøÕÈ˝ÿ¶z{"¢{zóßuÈ‹âÎ"ô®≤,ﬁ”mLùv”∑M5uÎ√zóßuÈ‹âÎ&°»Z◊^ı
