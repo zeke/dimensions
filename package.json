@@ -6,10 +6,7 @@
   "scripts": {
     "test": "node_modules/mocha/bin/mocha"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/zeke/dimensions"
-  },
+  "repository": "https://github.com/zeke/dimensions",
   "keywords": [
     "image",
     "dimensions",
